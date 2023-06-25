@@ -3,6 +3,7 @@
 .container {
     background: green;
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h1 {
@@ -31,7 +32,8 @@ a:hover {
     border-color: limegreen;
 }
 h2, h3{
-    color: blanchedalmond;
+    color: rgb(129, 83, 13);
+    font-size: 40px;
 }
 h6 {
     color: red;
