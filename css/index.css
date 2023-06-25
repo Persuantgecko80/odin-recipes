@@ -1,0 +1,35 @@
+/* styles.css */
+
+.container {
+    background: green;
+    text-align: center;
+}
+
+h1 {
+    color:yellow;
+    font-style: italic;
+    font-size: 50px;
+}
+a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border-style: dotted;
+    border-color: blue;
+}
+img {
+    border-style: solid;
+    border-color: red;
+}
+body, ul, ol {
+    text-align: left;
+}
+a:hover {
+    background-color: red;
+    color: black;
+    border-style: solid;
+    border-color: limegreen;
+}
+h2, h3{
+    color: blanchedalmond;
+}
